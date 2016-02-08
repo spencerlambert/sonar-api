@@ -1,0 +1,12 @@
+{
+  "name": "wisptoolssonar",
+  "authors": [
+    {
+      "name": "Spencer Lambert",
+      "email": "spencer@wisptools.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}
